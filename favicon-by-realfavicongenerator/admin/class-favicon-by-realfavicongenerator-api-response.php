@@ -287,6 +287,7 @@ class Favicon_By_RealFaviconGenerator_Api_Response {
 			array(
 				'filename' => $localPath,
 				'stream'   => true,
+				'timeout'  => 10,
 			)
 		);
 		if ( ( $resp == null ) || ( $resp == false ) || ( is_wp_error( $resp ) ) || ( $resp['response'] == null ) ||
