@@ -3,8 +3,8 @@ Contributors: phbernard
 Donate link: http://realfavicongenerator.net/donate
 Tags: favicon, logo, icon, apple touch icon, iphone
 Requires at least: 3.5
-Tested up to: 6.6.2
-Stable tag: 1.3.35
+Tested up to: 6.7
+Stable tag: 1.3.36
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,6 +81,10 @@ This screen presents you a preview of the favicon you various platforms, so you 
 5. You can also trigger RealFaviconGenerator's favicon checker, to make sure your favicon is correctly setup.
 
 == Changelog ==
+
+= 1.3.36 =
+
+- Plugin was tested up to WordPress 6.7
 
 = 1.3.35 =
 
